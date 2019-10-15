@@ -2,6 +2,6 @@ package test
 
 import "fmt"
 
-func Print() {
+func YCTestPrint() {
 	fmt.Println("aaaaaa")
 }
